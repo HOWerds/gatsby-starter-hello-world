@@ -103,7 +103,7 @@ class sponsors extends Component {
                 <img src={`/images/Oktane_Sponsor_AWS.png`} alt="AWS Sponsor" />
               </div>
               <div>Donec aliquam libero nec eros ultricies dignissim. Proin hendrerit eros id quam iaculis, vitae ullamcorper erat sollicitudin. Praesent dictum ac lorem ac fringilla. Etiam id lobortis nunc. Phasellus vestibulum euismod gravida. Curabitur porttitor varius ante a vestibulum. Cras velit odio, elementum id ante eu, efficitur lobortis dui. Donec in magna et justo pretium tristique.</div>
-            </div>`
+            </div>
           </div>
           
         </ReactModal>
@@ -121,7 +121,7 @@ class sponsors extends Component {
                 <img src={`/images/BetterCloud_logo_white.png`} alt="Better Cloud Sponsor" />
               </div>
               <div>Donec aliquam libero nec eros ultricies dignissim. Proin hendrerit eros id quam iaculis, vitae ullamcorper erat sollicitudin. Praesent dictum ac lorem ac fringilla. Etiam id lobortis nunc. Phasellus vestibulum euismod gravida. Curabitur porttitor varius ante a vestibulum. Cras velit odio, elementum id ante eu, efficitur lobortis dui. Donec in magna et justo pretium tristique.</div>
-            </div>`
+            </div>
           </div>
           
         </ReactModal>
@@ -139,7 +139,7 @@ class sponsors extends Component {
                 <img src={`/images/BeyondID_Logo_White.png`} alt="Beyond ID Sponsor" />
               </div>
               <div>Donec aliquam libero nec eros ultricies dignissim. Proin hendrerit eros id quam iaculis, vitae ullamcorper erat sollicitudin. Praesent dictum ac lorem ac fringilla. Etiam id lobortis nunc. Phasellus vestibulum euismod gravida. Curabitur porttitor varius ante a vestibulum. Cras velit odio, elementum id ante eu, efficitur lobortis dui. Donec in magna et justo pretium tristique.</div>
-            </div>`
+            </div>
           </div>
           
         </ReactModal>
@@ -157,7 +157,7 @@ class sponsors extends Component {
                 <img src={`/images/Oktane20_Sponsor_Box.png`} alt="BOX Sponsor" />
               </div>
               <div>Donec aliquam libero nec eros ultricies dignissim. Proin hendrerit eros id quam iaculis, vitae ullamcorper erat sollicitudin. Praesent dictum ac lorem ac fringilla. Etiam id lobortis nunc. Phasellus vestibulum euismod gravida. Curabitur porttitor varius ante a vestibulum. Cras velit odio, elementum id ante eu, efficitur lobortis dui. Donec in magna et justo pretium tristique.</div>
-            </div>`
+            </div>
           </div>
           
         </ReactModal>
@@ -175,7 +175,7 @@ class sponsors extends Component {
                 <img src={`/images/dropbox-new-white.png`} alt="Dropbox Sponsor" />
               </div>
               <div>Donec aliquam libero nec eros ultricies dignissim. Proin hendrerit eros id quam iaculis, vitae ullamcorper erat sollicitudin. Praesent dictum ac lorem ac fringilla. Etiam id lobortis nunc. Phasellus vestibulum euismod gravida. Curabitur porttitor varius ante a vestibulum. Cras velit odio, elementum id ante eu, efficitur lobortis dui. Donec in magna et justo pretium tristique.</div>
-            </div>`
+            </div>
           </div>
           
         </ReactModal>
